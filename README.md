@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @landfilledstomach
-- 👀 I’m interested in Coding, The languages im interested in are Python and Javascript
+- 👀 I’m interested in Programming, The languages im interested in are Python, C#/C++ and the 3 Web Development Languages
 - 🌱 I’m currently learning Python, im going to learn other languages once I master Python
 - 💞️ I’m looking to collaborate on... well as of now, nothing, Im still very new to Code
 - 📫 How to reach me :
