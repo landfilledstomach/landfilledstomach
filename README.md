@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @landfilledstomach
-- 👀 I’m interested in Programming, The languages im interested in are Python, C#/C++ and the 3 Web Development Languages
-- 🌱 I’m currently learning Python, im going to learn other languages once I master Python
-- 💞️ I’m looking to collaborate on... well as of now, nothing, Im still very new to Code
+- 👀 I’m interested in Coding Games and Websites.
+- 🌱 I’m currently I am currently learning to make games in Godot with C#.
+- 💞️ I’m looking to collaborate on... well as of now, nothing, Im still pretty inexperienced in coding
 - 📫 How to reach me :
-Discord : Littlefast_guy#8767
+Discord : Vivolderman#8767
+Email : amirhakimbusiness@gmail.com
 
 
 
